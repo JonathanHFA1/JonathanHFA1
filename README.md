@@ -15,14 +15,14 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="[https://github.com/Jonathan](https://github.com/JonathanHFA1)" target="_blank" style="margin-right:10px;">
+  <a href="https://github.com/JonathanHFA1" target="_blank" style="margin-right:10px;">
     <img 
       alt="GitHub" 
       title="Segue-me no GitHub" 
       src="https://custom-icon-badges.demolab.com/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <a href="[www.linkedin.com/in/jonathan-alves-hfa](https://www.linkedin.com/in/jonathan-alves-hfa/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-alves-hfa/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecta-te comigo no LinkedIn" 
@@ -60,13 +60,13 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
     align="left" 
     alt="Estatísticas do GitHub" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Jonathan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JonathanHFA1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHFA1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
@@ -82,9 +82,9 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 
 ### 🎯 Objetivo
 
-Atualmente, foco em desenvolver minhas competências como **programador FullStack**, consolidando o conhecimento em **Java, JavaScript, React e Next.js**.  
+Atualmente, foco em desenvolver as minhas competências como **programador FullStack**, consolidando o conhecimento em **Java, JavaScript, React e Next.js**.  
 Busco aplicar boas práticas de desenvolvimento e participar em projetos que me desafiem e contribuam para o meu crescimento profissional. 💪  
 
 ---
 
-
+> _"A cada linha de código, uma nova oportunidade de aprender."_ ✨
