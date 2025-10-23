@@ -1,31 +1,31 @@
-# 👨🏻‍💻 Jonathan  
+# 👨🏻‍💻 Jonathan Alves
 
-> _"A tecnologia move o mundo, e o conhecimento é o combustível que nos leva mais longe."_ 🚀
-> 
-**`Estudante de Engenharia Informática`**
+> _"Technology moves the world, and knowledge is the fuel that takes us further."_ 🚀  
+>  
+**`Computer Engineering Student`**
 
-Olá! 👋 Sou o Jonathan, estudante de **Engenharia Informática**, apaixonado por tecnologia e pelo desenvolvimento de soluções inteligentes.  
-Atualmente, estou a aprofundar os meus conhecimentos em **Java**, **JavaScript**, **React**, **Next.js**, e outras tecnologias voltadas ao desenvolvimento **Full Stack**.  
+Hello there! 👋 I'm **Jonathan**, a **Computer Engineering student** passionate about technology and developing intelligent solutions.  
+I'm currently deepening my knowledge in **Java**, **JavaScript**, **React**, **Next.js**, and other technologies focused on **Full Stack Development**.  
 
-Tenho interesse em criar aplicações modernas, eficientes e bem estruturadas, combinando o melhor do **frontend** e **backend**.  
-Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunidade de programadores. 🚀  
+I’m particularly interested in building modern, efficient, and well-structured applications — combining the best of **frontend** and **backend** development.  
+Always eager to learn more and share my progress with the programming community. 🚀  
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://github.com/JonathanHFA1" target="_blank" style="margin-right:10px;">
     <img 
       alt="GitHub" 
-      title="Segue-me no GitHub" 
+      title="Follow me on GitHub" 
       src="https://custom-icon-badges.demolab.com/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
   <a href="https://www.linkedin.com/in/jonathan-alves-hfa/" target="_blank">
     <img 
       alt="LinkedIn" 
-      title="Conecta-te comigo no LinkedIn" 
+      title="Connect with me on LinkedIn" 
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
@@ -33,7 +33,7 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technologies & Tools
 
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -53,20 +53,20 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <p>
   <img 
     align="left" 
-    alt="Estatísticas do GitHub" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=JonathanHFA1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=JonathanHFA1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
   <img 
     align="left" 
-    alt="Linguagens mais usadas" 
+    alt="Top Languages" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHFA1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanHFA1&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
 
@@ -80,11 +80,11 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 
 ---
 
-### 🎯 Objetivo
+### 🎯 Goals
 
-Atualmente, foco em desenvolver as minhas competências como **programador FullStack**, consolidando o conhecimento em **Java, JavaScript, React e Next.js**.  
-Busco aplicar boas práticas de desenvolvimento e participar em projetos que me desafiem e contribuam para o meu crescimento profissional. 💪  
+I’m currently focused on improving my skills as a **Full Stack Developer**, strengthening my knowledge in **Java, JavaScript, React, and Next.js**.  
+My goal is to apply best development practices and contribute to projects that challenge me and help me grow professionally. 💪  
 
 ---
 
-> _"A cada linha de código, uma nova oportunidade de aprender."_ ✨
+> _"With every line of code, a new opportunity to learn."_ ✨
