@@ -15,14 +15,14 @@ Estou sempre em busca de aprender mais e partilhar o meu progresso com a comunid
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://github.com/Jonathan" target="_blank" style="margin-right:10px;">
+  <a href="[https://github.com/Jonathan](https://github.com/JonathanHFA1)" target="_blank" style="margin-right:10px;">
     <img 
       alt="GitHub" 
       title="Segue-me no GitHub" 
       src="https://custom-icon-badges.demolab.com/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
-  <a href="www.linkedin.com/in/jonathan-alves-hfa" target="_blank">
+  <a href="[www.linkedin.com/in/jonathan-alves-hfa](https://www.linkedin.com/in/jonathan-alves-hfa/)" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecta-te comigo no LinkedIn" 
