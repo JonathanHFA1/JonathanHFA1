@@ -2,7 +2,7 @@
 
 > _"Technology moves the world, and knowledge is the fuel that takes us further."_ 🚀  
 >  
-**`Computer Engineering Student`**
+**`Informatic Engineering Student`**
 
 
 
